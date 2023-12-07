@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+}
+.first_head{
+    text-align: center;
+    font-size: 90px;
+    color: rgb(8, 55, 55);
+}
+
+.second_head{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -40px;
+    color: rgb(4, 57, 156);
+}
+.franc{
+    width: 200px;
+    margin-left: 850px;
+}
+.para{
+    font-size: 26px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
